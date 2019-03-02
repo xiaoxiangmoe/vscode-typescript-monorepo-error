@@ -1,0 +1,12 @@
+{
+  "private": true,
+  "scripts": { 
+    "start": "yarn workspace pages start"
+  },
+  "devDependencies": { 
+    "typescript": "^3.3.3333"
+  },
+  "workspaces": [
+    "packages/*"
+  ]
+}
